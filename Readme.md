@@ -23,10 +23,12 @@ The following is the demo-video link image:
 FOR QUERIES AND PROBLEMS:
 -------------------------
 Send a mail. (ankprashar@gmail.com)
+             (abhishekyadav3022@gmail.com)
 
 Contributers:
 --------------
 [Ankush Sharma](https://github.com/black_perl)
+[Abhishek Yadav](https://github.com/abhishek3022)
 
 Fork it if you like !!
 ----------------------
