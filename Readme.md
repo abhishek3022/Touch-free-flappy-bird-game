@@ -27,8 +27,8 @@ Send a mail. (ankprashar@gmail.com)
 
 Contributers:
 --------------
-[Ankush Sharma](https://github.com/black_perl)
-[Abhishek Yadav](https://github.com/abhishek3022)
+[Ankush Sharma] (https://github.com/black_perl)
+[Abhishek Yadav] (https://github.com/abhishek3022)
 
 Fork it if you like !!
 ----------------------
